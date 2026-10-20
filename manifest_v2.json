@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "com.sixone.masterLockpicker",
+    "restype": "quick_app",
+    "name": "开锁大师",
+    "description": "体验开锁师傅\n排位竞技\n看谁最快",
+    "preview": [
+      "media/开锁大师@2x.png"
+    ],
+    "icon": "media/app logo@4x.png",
+    "cover": "media/开锁大师@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "开锁大师密钥购买链接",
+      "url": "https://afdian.com/item/c32937b06ecf11f0942052540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.1.0",
+      "file_name": "downloads/环9P-开锁大师-v1.1.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
