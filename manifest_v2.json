@@ -5,7 +5,13 @@
     "name": "开锁大师",
     "description": "体验开锁师傅\n排位竞技\n看谁最快",
     "preview": [
-      "media/开锁大师@2x.png"
+      "media/开锁大师@2x.png",
+      "media/容器 235@2x.png",
+      "media/image@2x.png",
+      "media/表盘页@2x.png",
+      "media/排行榜@2x.png",
+      "media/成功@2x.png",
+      "media/失败@2x.png"
     ],
     "icon": "media/app logo@4x.png",
     "cover": "media/开锁大师@2x.png",
